@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kedarkekan
-- 🌱 I’m currently building @Airavana
+- 🌱 Co-Founder, CTO, SaaS, Engineering & Cyber Security Leadership
 
 <!---
 kedarkekan/kedarkekan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
